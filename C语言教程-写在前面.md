@@ -77,7 +77,7 @@ https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README
 1. 学习电脑操作快速入门-B站视频 
 
     你需要学会: 
-
+    
     1. 学会开关机,`打开`windows的各种自带软件(例如文件管理器,任务管理器)
     2. 学会使用`QQ`,微信,WPS,OFFICE(能基本的使用就行),`浏览器`,网易有道词典,火绒
     3. 学会解压文件,打包文件,了解各种常见的文件后缀名都是什么,如何使用
